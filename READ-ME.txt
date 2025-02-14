@@ -1,6 +1,6 @@
   =>  Template Name    : PET SHOP - Pet Shop Website Template
 
-  =>  Template Link    : https://htmlcodex.com/pet-shop-website-template
+  =>  Template Link    :-website-template
 
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
