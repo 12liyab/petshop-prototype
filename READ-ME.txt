@@ -4,7 +4,7 @@
 
   =>  Template License : https://github.com/12liyab/petshop-prototype//license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML 
+  =>  Template Author  :  
 
   =>  Author Website   : https://htmlcodex.com
 
